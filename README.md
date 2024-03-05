@@ -31,4 +31,4 @@ scenario "namespace 'native'" ->
         should -> expect (-> NativeType <[ Array ]> []) .to-return []
 ```
 
-[](examples/test-suite-example.jpg)!
+![](examples/test-suite-example.jpg)
